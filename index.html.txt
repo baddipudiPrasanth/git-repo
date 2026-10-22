@@ -4,4 +4,3 @@
 <h4> adde heel <h4>
 <h5> added h5 <h5>
 <h6> added <h6>
-<h7> added dummy linr <h7>
